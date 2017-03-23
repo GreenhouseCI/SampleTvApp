@@ -190,8 +190,7 @@
 				TargetAttributes = {
 					054CD3041E83D54B00231D24 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = MPRGV3Y7Q4;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					054CD3151E83D54B00231D24 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -402,7 +401,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = MPRGV3Y7Q4;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = SampleTvApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.nevercode.sampletvapp.SampleTvApp;
@@ -416,7 +415,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = MPRGV3Y7Q4;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = SampleTvApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.nevercode.sampletvapp.SampleTvApp;
